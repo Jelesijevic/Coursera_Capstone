@@ -1,0 +1,10 @@
+What are the assumptions here?
+
+Data is downloaded from Doogle and Foursquare and it comprises of combining list two lists, 
+one consisting of postcodes, districts, parish,, latitudes, longitudes and the other where we are
+extracting only train startions in the area, so theese tow lists have to be merged in order to have one dataframe created.
+We have to assume that this list is limited and may not represent the actual state of the affairs and also doesn't represent
+the actual availability of a property that is in the optimal distance to the train station. 
+But we could just focus on the area/postode within the District.
+My focus  will be Bromley in outer London as my free account on  FourSquare api is limited 
+so  exploring whole of the London town might get execcssive.
