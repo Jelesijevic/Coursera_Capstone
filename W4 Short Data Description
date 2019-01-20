@@ -1,4 +1,0 @@
-What are the assumptions here?
-
-Data is downloaded from Doogle and Foursquare and it comprises of combining list two lists, one consisting of train startions in London postcodes,  latitudes, longitudes and the other elements where we are extracting only train startions in the inner London area ( Zone 1 and 2).  We have to assume that this list is limited and may not represent the actual state of the affairs and also doesn't represent the actual opprtunity to capture teh Business opprtunity where tehre are still room for bsuiness development and allso thequick access to a high level of variety of amenities in inner London. We will focus only on those 2 types of assumptions.. My focus  will be London subway in Zone and 2 of inner London area as my free account on  FourSquare api is limited so  exploring whole of Greater London might get execcssive.
-
